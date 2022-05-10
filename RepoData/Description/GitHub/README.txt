@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+The toilet operating system of the future, part of the BathHouseOS operating system family. Written in nesC, designed for TinyOS.
